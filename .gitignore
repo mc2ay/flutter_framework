@@ -16,7 +16,7 @@ lib/secrets
 .fvmrc
 
 # Vscode
-.vscode/settings.json
+.vscode
 
 # IntelliJ related
 *.iml
@@ -36,6 +36,7 @@ lib/secrets
 /build/
 .fvm/flutter_sdk
 coverage/
+pubspec.lock
 
 # Symbolication related
 app.*.symbols
